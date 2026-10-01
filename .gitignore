@@ -1,0 +1,11 @@
+# Runtime logs
+logs/*.log
+logs/test-results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
